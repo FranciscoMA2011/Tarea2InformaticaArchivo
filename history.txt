@@ -1,0 +1,264 @@
+    1  sudo su
+    2  clear
+    3  reset
+    4  start
+    5  dash
+    6  ifconfig -a
+    7  lsb_release -a
+    8  sudo a update
+    9  sudo apt update
+   10  sudo apt upgrade
+   11  sudo apt install vim
+   12  vim prueba.txt
+   13  sudo apt install ./<file>.deb
+   14  sudo apt install ./<Descargas>.deb
+   15  sudo apt install software-properties-common apt-transport-https wget
+   16  wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+   17  sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+   18  sudo apt update
+   19  sudo apt install code
+   20  code
+   21  sudo code
+   22  code
+   23  sudo apt install --assume-yes libx11-xcb1 libasound2 x11-apps libice6 libsm6 libxaw7 libxft2 libxmu6 libxpm4 libxt6 x11-apps xbitmaps
+   24  code
+   25  sudo apt-get update -y
+   26  sudo apt-get install -y libxcb-dri3-0
+   27  code
+   28  hostname
+   29  pwd
+   30  ls
+   31  lsb_release -a
+   32  code
+   33  sudo apt install g++
+   34  sudo apt install build-essential
+   35  g++ --version
+   36  nano hello.cc
+   37  g++ -o hello hello.cc
+   38  ls
+   39  ./hello
+   40  nano hello.cc
+   41  g++ -o hello hello.cc
+   42  nano hello.cc
+   43  g++ -o hello hello.cc
+   44  nano hello.cc
+   45  g++ -o hello hello.cc
+   46  ./hello
+   47  ls
+   48  sudo mkdir practicas
+   49  ls
+   50  sudo mv hello.* practicas
+   51  ls
+   52  sudo mv hello practicas
+   53  ls
+   54  cd practicas
+   55  ls
+   56  VSC
+   57  firefox
+   58  sudo apt  install firefox
+   59  firefox
+   60  sudo firefox
+   61  /usr/bin/firefox -new-window //www.codigomaestro.com/
+   62  sudo apt install tasksel
+   63  sudo apt install kubuntu-desktop
+   64  code
+   65  firefox
+   66  code
+   67  code hello.cc
+   68  ./Code
+   69  ./code
+   70  code 
+   71  gedit
+   72  nautilus
+   73  sudo nautilus
+   74  sudo apt install nautilus
+   75  sudo nautilus
+   76  nautilus
+   77  xhost +
+   78  echo ‘xhost + && clear’ >> $HOME/.bashrc
+   79  nautilus
+   80  sudo rm -f /home/user/.local/share/recently-used.xbel
+   81  nautilus
+   82  code
+   83  g++
+   84  ls
+   85  vim hello.cc
+   86  g++ /?
+   87  g++ hello hello.cc
+   88  ls
+   89  g++ helloworld  hello.cc
+   90  ls
+   91  sudo rm hello
+   92  ls
+   93  g++ hello hello.cc
+   94  g++ hello.cc hello
+   95  g++ --version
+   96  g++ -o hello hello.cc
+   97  sudo g++ -o hello hello.cc
+   98  ls
+   99  ./hello
+  100  ls
+  101  sudo rm hello
+  102  sudo mv hello.cc
+  103  sudo cp hello.cc hello_world.cc
+  104  ls
+  105  sudo rm hello.cc
+  106  sudo g++ -o hello_world hello_world.cc
+  107  ls
+  108  ./hello_world
+  109  vim hello_world
+  110  vim hello_world.cc
+  111  ls -al ~/.ssh
+  112  sudo apt install git
+  113  git --version
+  114  ssh keygen
+  115  ssh
+  116  git init
+  117  sudo git init
+  118  git add hello_world.cc
+  119  sudo git add hello_world.cc
+  120  git commit -m "First commit"
+  121  sudo git commit -m "First commit"
+  122  git config --global user.email alu0101438412@ull.edu.es
+  123  git config --global user.name Francisco Marqués Armas
+  124  sudo git commit -m "First commit"
+  125  git remote add origin https://github.com/FranciscoMA2011/hello_world.cc
+  126  sudo git remote add origin https://github.com/Francisc
+  127  git remote add origin https://github.com/FranciscoMA2011/Hello_world.git
+  128  git push -u origin main
+  129  hostname
+  130  sudo nano etc/hostname
+  131  sudo nano /etc/hostname
+  132  hostname
+  133  ./hello_world
+  134  sudo reboot
+  135  whoami
+  136  hostname
+  137  ifconfig -a
+  138  whoami
+  139  hostname
+  140  ssh ib
+  141  sudo ssh ib
+  142  clear
+  143  reload
+  144  refresh
+  145  clear
+  146  ola k ase
+  147  clear
+  148  hostname
+  149  whoami
+  150  ssh ib
+  151  ssh logout
+  152  rebooy
+  153  reboot
+  154  sudo reboot
+  155  pwd
+  156  ls -l
+  157  cd /practicas/
+  158  cd home/practicas/
+  159  cd ~/practicas/
+  160  clear
+  161  pwd
+  162  ls -l
+  163  cd home/usuario/.ssh/
+  164  cd /home/usuario/.ssh/
+  165  ls
+  166  nano id_rsa
+  167  nano id_rsa.pub
+  168  cd /.ssh/
+  169  cd /.ssh
+  170  cd ~/.ssh
+  171  ls
+  172  vim id_rsa.pub
+  173  ssh keygen -t rsa -b 4096 -C alu0101438412@ull.edu.es
+  174  sudo ssh keygen -t rsa -b 4096 -C alu0101438412@ull.edu.es
+  175  cd .ssh/
+  176  rm .ssh/
+  177  rm ~/.ssh/
+  178  sudo rm ~/.ssh/
+  179  sudo rm -r ~/.ssh/
+  180  sudo ssh keygen -t rsa -b 4096 -C alu0101438412@ull.edu.es
+  181  ls
+  182  cd..
+  183  cd ..
+  184  ssh-keygen -t rsa -b 4096 -C "alu0101438412@ull.edu.es"
+  185  sudo apt-get install xclip
+  186  xclip -sel clip < ~/.ssh/id_rsa.pub
+  187  nano
+  188  cd ssh
+  189  ls
+  190  cd ..
+  191  ls
+  192  cd usuario
+  193  ls
+  194  cd ..
+  195  ls
+  196  cd usr
+  197  ls
+  198  nano ~/.ssh/id_rsa.pub
+  199  cp ~/.ssh/id_rsa.pub /home/claversa.txt
+  200  sudo cp ~/.ssh/id_rsa.pub /home/claversa.txt
+  201  ls
+  202  cd ..
+  203  ls
+  204  cd home
+  205  ls
+  206  gedit
+  207  nano claversa.txt
+  208  ssh keygen
+  209  cd /.ssh/
+  210  cd .ssh/
+  211  ls
+  212  vim id_rsa.pub
+  213  g++ -o Nuevo_Programa Nuevo_Programa.cc
+  214  ./Nuevo_programa
+  215  ./Nuevo_Programa
+  216  ls
+  217  cd practicas
+  218  cd ejercicios
+  219  cd ejercicios_comandos_linux
+  220  ls
+  221  cd generos_literarios
+  222  ls
+  223  cd dramático
+  224  ls
+  225  cd tragedia
+  226  ls
+  227  cd ~/practicas/ejercicios/ejercicios_comandos_linux/
+  228  mv tragedia_Shakespeare.txt ~/practicas/ejercicios/ejercicios_comandos_linux/generos_literarios/dramático/tragedia
+  229  sudo mv tragedia_Shakespeare.txt ~/practicas/ejercicios/ejercicios_comandos_linux/generos_literarios/dramático/tragedia
+  230  cd ~/practicas/ejercicios/ejercicios_comandos_linux/generos_literarios/dramático/tragedia
+  231  ls
+  232  wc -l tragedia_Shakespare.txt
+  233  wc tragedia_Shakespare.txt
+  234  ls
+  235  wc tragedia_Shakespeare.txt
+  236  vim tragedia_Shakespeare.txt
+  237  file
+  238  touch
+  239  touch NumeroPalabras
+  240  sudo touch NumeroPalabras
+  241  vim NumeroPalabras
+  242  sudo history > history.txt
+  243  history
+  244  ls -l
+  245  history > history.txt
+  246  sudo history > history.txt
+  247  cd ç
+  248  cd /
+  249  history > history.txt
+  250  history > historia.txt
+  251  sudo history > historia.txt
+  252  chmod
+  253  chmod 777 /
+  254  sudo chmod 777 -R /
+  255  cd home
+  256  sudo history > historia.txt
+  257  cat ls -l > test.txt
+  258  sudo history >> history.txt
+  259  ls -la
+  260  cd usuario
+  261  ls
+  262  ls -a
+  263  cat .bash_history
+  264  history > history.txt
